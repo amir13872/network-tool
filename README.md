@@ -1,6 +1,9 @@
 # Network Tool
 
-A Python-based tool designed to simplify the execution of advanced network commands such as ARP, Ping, Netsh, and NetBIOS. This tool features a user-friendly graphical interface, making it accessible for users who may not be comfortable with command-line operations.
+A Python-based tool designed to simplify the execution of advanced network commands such as ARP, Ping, Netsh, and NetBIOS. This tool features a user-friendly graphical interface, making it accessible for users who may not be comfortable with command-line operations.C# version ==>
+```
+https://github.com/amir13872/NetworkCommandTool
+```
 
 ## Features
 
